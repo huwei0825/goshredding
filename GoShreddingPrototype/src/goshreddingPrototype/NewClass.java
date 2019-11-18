@@ -11,6 +11,5 @@ package goshreddingPrototype;
  */
 public class NewClass {
     ///sdfsdsds
-    //fbgfbfbvfv
-    //sdsdsdsdsdsd
+    ////sdsdsds
 }
